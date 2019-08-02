@@ -1,4 +1,4 @@
-=== Remove Category URL ===
+=== Remove Category URL in Wordpres ===
 Contributors: WPSharing
 Tags: categories, category base, category, permalinks, URL structure, links, seo, cms, wpml, URL
 Requires at least: 3.1
